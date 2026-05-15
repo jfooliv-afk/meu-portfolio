@@ -1,0 +1,55 @@
+
+
+{
+  "nome": "João F de Oliveira",
+  "cargo": "Líder de Monitoramento",
+  "local": "São Paulo - BR",
+  "telefone": "(11) 94198-5528",
+  "email": "joaofco967@hotmail.com",
+
+  "bio": "Profissional com experiência em monitoramento, em transição para desenvolvimento front-end, focado em criar aplicações modernas e funcionais.",
+
+  "skills": ["HTML", "CSS", "JavaScript"],
+
+  "idiomas": [
+  "Português (nativo)",
+  "Inglês (nível básico/intermediário em desenvolvimento - curso Mairo Vergara)"
+]
+,
+  "portfolio": [
+    {
+      "nome": "Chat Finanças Ease",
+      "descricao": "Aplicação web para gestão financeira com interface de chat, permitindo registrar e acompanhar despesas de forma simples e intuitiva.",
+      "link": "https://chat-financas-ease.lovable.app"
+    }
+  ],
+"experiencias": [
+  {
+    "cargo": "Líder de Monitoramento",
+    "empresa": "G4S Vanguarda Segurança e Vigilância Ltda",
+    "periodo": "01/10/2009 a 14/05/2020",
+    "descricao": "Atuação no monitoramento de sistemas de segurança, controle de acesso e suporte operacional, garantindo eficiência e segurança dos processos."
+  }
+],
+
+  "cursos": [
+    "Ensino Médio Completo",
+    "Curso de Formação de Vigilante",
+    "Configuração e operação de sistemas DVR",
+    "Rastreamento de veículos (Wise Track / Zetta Track)",
+    "Sistema de monitoramento SMART",
+    "Controle de acesso LENEL"
+  ],
+
+  "competencias": [
+    "Pacote Office (Excel, Word, Outlook, PowerPoint)",
+    "Sistema operacional Windows",
+    "Manipulação de arquivos PDF"
+  ],
+
+  "cursos_dio": [
+    "Bootcamp CAIXA - Inteligência Artificial na Prática (28h)",
+    "Formação JavaScript Developer (em andamento)"
+  ]
+}
+

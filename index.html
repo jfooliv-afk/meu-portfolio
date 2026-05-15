@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="card">
+
+  <!-- HEADER -->
+  <div class="header">
+    <img src="assets/foto.png" class="foto" alt="Foto de perfil">
+
+    <div>
+      <p>Olá, eu sou</p>
+      <h1 id="nome"></h1>
+      <p id="cargo"></p>
+      <p id="local"></p>
+      <p id="telefone"></p>
+      <p id="email"></p>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="skills-box">
+
+    <div class="skills-col">
+      <h3>🛠️ Ferramentas</h3>
+
+      <div class="skills-icons">
+        <div class="skill-item">
+          <img src="assets/icons/html.svg">
+          <span>HTML</span>
+        </div>
+
+        <div class="skill-item">
+          <img src="assets/icons/css.svg">
+          <span>CSS</span>
+        </div>
+
+        <div class="skill-item">
+          <img src="assets/icons/js.svg">
+          <span>JavaScript</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="skills-col">
+      <h3>🧠 Pessoal</h3>
+
+      <ul class="soft-skills">
+        <li>✨ Empatia</li>
+        <li>🔥 Comprometimento</li>
+        <li>⚡ Adaptabilidade</li>
+        <li>🌀 Flexibilidade</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- IDIOMAS -->
+  <div class="accordion">
+    <button type="button" onclick="toggle(this)">
+      Idiomas <span class="arrow">▼</span>
+    </button>
+    <div class="content" id="idiomas"></div>
+  </div>
+
+  <!-- PORTFÓLIO -->
+  <div class="accordion">
+    <button type="button" onclick="toggle(this)">
+      Portfólio <span class="arrow">▼</span>
+    </button>
+    <div class="content" id="portfolio"></div>
+  </div>
+
+  <!-- EXPERIÊNCIA -->
+  <div class="accordion">
+    <button type="button" onclick="toggle(this)">
+      Experiência <span class="arrow">▼</span>
+    </button>
+    <div class="content" id="experiencias"></div>
+  </div>
+
+  <!-- FORMAÇÃO -->
+  <div class="accordion">
+    <button type="button" onclick="toggle(this)">
+      Formação em Tecnologia <span class="arrow">▼</span>
+    </button>
+    <div class="content" id="cursos_dio"></div>
+  </div>
+
+  <!-- CURSOS -->
+  <div class="accordion">
+    <button type="button" onclick="toggle(this)">
+      Cursos <span class="arrow">▼</span>
+    </button>
+    <div class="content" id="cursos"></div>
+  </div>
+
+  <!-- COMPETÊNCIAS -->
+  <div class="accordion">
+    <button type="button" onclick="toggle(this)">
+      Competências <span class="arrow">▼</span>
+    </button>
+    <div class="content" id="competencias"></div>
+  </div>
+
+</div>
+
+<!-- BOTÃO FLUTUANTE -->
+<a 
+  href="https://wa.me/5511941985528?text=Olá João! Vi seu portfólio e gostaria de conversar."  class="whatsapp-float" 
+  target="_blank"
+>
+  <img src="assets/icons/whatsapp.png" alt="WhatsApp">
+</a>
+
+<script src="script.js"></script>
+
+</body>
+</html>
