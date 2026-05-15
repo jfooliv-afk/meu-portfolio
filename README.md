@@ -2,6 +2,12 @@
 
 Portfólio desenvolvido com HTML, CSS e JavaScript.
 
+## 🌍 Projeto Online
+
+Acesse o portfólio publicado:
+
+https://meu-portfolio-iota-blond.vercel.app/
+
 ## ✨ Funcionalidades
 
 - Layout moderno
@@ -22,6 +28,6 @@ Portfólio desenvolvido com HTML, CSS e JavaScript.
 WhatsApp:
 +55 11 94198-5528
 
-## 🌍 Projeto
+## 📚 Objetivo
 
 Desenvolvido como prática de estudos em desenvolvimento web.
