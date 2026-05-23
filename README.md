@@ -1,3 +1,5 @@
+![Banner](./ChatGPT Image 21 de mai. de 2026, 20_50_53.png)
+
 # 🚀 Meu Portfólio
 
 Portfólio desenvolvido com HTML, CSS e JavaScript.
