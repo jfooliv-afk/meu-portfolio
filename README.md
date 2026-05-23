@@ -1,4 +1,4 @@
-![Banner](./ChatGPT Image 21 de mai. de 2026, 20_50_53.png)
+![Banner](./banner-tech.png)
 
 # 🚀 Meu Portfólio
 
